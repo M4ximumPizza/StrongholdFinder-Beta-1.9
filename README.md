@@ -13,13 +13,13 @@ javac java/mi/m4x/strongholdfinder/StrongholdFinder.java
 Run it with a world seed:
 
 ```
-java StrongholdFinder-1.0 <seed>
+java StrongholdFinder <seed>
 ```
 
 Example:
 
 ```
-java Strongholdfinder-1.0  123456789
+java Strongholdfinder  123456789
 ```
 
 If no seed is provided, the program will use the default seed defined in the source code.
@@ -27,4 +27,5 @@ If no seed is provided, the program will use the default seed defined in the sou
 ## License
 
 This project is released under the **MIT License**. You are free to use, modify, and distribute it with proper attribution.
+
 
