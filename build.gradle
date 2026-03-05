@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+}
+
+group = 'mi.m4x.strongholdfinder'
+version = '1.0'
+
+repositories {
+}
+
+dependencies {
+}
+
+test {
+    useJUnitPlatform()
+}
